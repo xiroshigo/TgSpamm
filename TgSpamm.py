@@ -52,7 +52,7 @@ __banner__ = """\033[1;32m
 
 clearscreen()
 print(__banner__)
-print(""" \033[1;4;31m •••script dasturchisi: @darknet_off1cial\n  •••kanalimiz: @termux_uz_private""")
+print(""" \033[1;4;31m •••script dasturchisi: @darknet_off1cial\n  •••kanalimiz: @andro_py""")
 print("""\033[1;34m
   •••telegram spamm massaging qiling yoki scriptdan chiqing:
   01) Telegram Spam Message Attack
